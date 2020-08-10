@@ -1,3 +1,3 @@
 # BetterTicTacToe-in-JAVA
 
-This virsion of TicTacToe is made with using swing which is a huge upgrade from the last
+This version of TicTacToe is made with using swing which is a huge upgrade from the last
